@@ -10,6 +10,7 @@ In the project directory, you can run:
 Open`` http://localhost:3000/viewDetail`` to view it in the postman.
 # Postman body 
 __For Weekly user and weekly unique user__ 
+
 ``Input``
 ```
 {
@@ -42,7 +43,8 @@ __For Weekly user and weekly unique user__
 	},
 ];
 ```
-Similarly we can get output for monthly, daily, custom and total with below input
+Similarly we can get output for monthly, daily, custom and total with below input.
+
 __Body for monthly deails__
 ```
 {
