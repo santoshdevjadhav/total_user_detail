@@ -6,3 +6,4 @@ postman body :
     "startDate":"2020-01-10",
     "endDate":"2020-01-13"
 }
+URL : localhost:3000/viewDetail
